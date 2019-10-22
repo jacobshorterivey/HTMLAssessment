@@ -1,0 +1,40 @@
+.subjectHeader {
+  color: orange;
+  font-family: sans-serif;
+}
+
+table {
+  border: 4px dotted blue;
+}
+
+thead {
+  color: red;
+}
+
+table tbody tr {
+  text-align: center;
+}
+
+li {
+  list-style: square;
+}
+
+.hyperLink:hover {
+  background-color: coral;
+  text-decoration: none;
+}
+
+blockquote{
+  background-color: maroon;
+  color: yellow;
+}
+
+#teamRoster > li > img {
+  opacity: 0.2;
+  position: relative;
+  top: 70px;
+  left: 55px;
+}
+form ul li {
+  list-style: none;
+}
